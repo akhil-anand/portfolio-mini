@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/portfolio-mini/static/css/main.311e4ead.css",
+    "main.js": "/portfolio-mini/static/js/main.b4984b10.js",
+    "static/media/coder1.jpeg": "/portfolio-mini/static/media/coder1.28e50b8ae1f329592b0a.jpeg",
+    "index.html": "/portfolio-mini/index.html",
+    "main.311e4ead.css.map": "/portfolio-mini/static/css/main.311e4ead.css.map",
+    "main.b4984b10.js.map": "/portfolio-mini/static/js/main.b4984b10.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.311e4ead.css",
+    "static/js/main.b4984b10.js"
+  ]
+}
