@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/portfolio-mini/static/css/main.518ce8de.css",
-    "main.js": "/portfolio-mini/static/js/main.b5e95635.js",
+    "main.js": "/portfolio-mini/static/js/main.29439b00.js",
     "static/media/shopping.png": "/portfolio-mini/static/media/shopping.fd541a3541c9d5152094.png",
     "static/media/crown-clothing.png": "/portfolio-mini/static/media/crown-clothing.da59f759497992b463bd.png",
     "static/media/memories.png": "/portfolio-mini/static/media/memories.7ec57089c2fb896fc30e.png",
@@ -13,10 +13,10 @@
     "static/media/coder1.jpeg": "/portfolio-mini/static/media/coder1.28e50b8ae1f329592b0a.jpeg",
     "index.html": "/portfolio-mini/index.html",
     "main.518ce8de.css.map": "/portfolio-mini/static/css/main.518ce8de.css.map",
-    "main.b5e95635.js.map": "/portfolio-mini/static/js/main.b5e95635.js.map"
+    "main.29439b00.js.map": "/portfolio-mini/static/js/main.29439b00.js.map"
   },
   "entrypoints": [
     "static/css/main.518ce8de.css",
-    "static/js/main.b5e95635.js"
+    "static/js/main.29439b00.js"
   ]
 }
