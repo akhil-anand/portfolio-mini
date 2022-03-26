@@ -1,14 +1,22 @@
 {
   "files": {
-    "main.css": "/portfolio-mini/static/css/main.311e4ead.css",
-    "main.js": "/portfolio-mini/static/js/main.b4984b10.js",
+    "main.css": "/portfolio-mini/static/css/main.518ce8de.css",
+    "main.js": "/portfolio-mini/static/js/main.b5e95635.js",
+    "static/media/shopping.png": "/portfolio-mini/static/media/shopping.fd541a3541c9d5152094.png",
+    "static/media/crown-clothing.png": "/portfolio-mini/static/media/crown-clothing.da59f759497992b463bd.png",
+    "static/media/memories.png": "/portfolio-mini/static/media/memories.7ec57089c2fb896fc30e.png",
+    "static/media/food.png": "/portfolio-mini/static/media/food.471ac6da4419971a1455.png",
+    "static/media/angularPortfolio.png": "/portfolio-mini/static/media/angularPortfolio.f1af84d7489971e588f0.png",
+    "static/media/resumeBuilder.png": "/portfolio-mini/static/media/resumeBuilder.adbad96a330256166617.png",
+    "static/media/ticTacToe.png": "/portfolio-mini/static/media/ticTacToe.f00d4ea9c59e17b4ac60.png",
+    "static/media/toDoList.png": "/portfolio-mini/static/media/toDoList.114979f0b655da4827ea.png",
     "static/media/coder1.jpeg": "/portfolio-mini/static/media/coder1.28e50b8ae1f329592b0a.jpeg",
     "index.html": "/portfolio-mini/index.html",
-    "main.311e4ead.css.map": "/portfolio-mini/static/css/main.311e4ead.css.map",
-    "main.b4984b10.js.map": "/portfolio-mini/static/js/main.b4984b10.js.map"
+    "main.518ce8de.css.map": "/portfolio-mini/static/css/main.518ce8de.css.map",
+    "main.b5e95635.js.map": "/portfolio-mini/static/js/main.b5e95635.js.map"
   },
   "entrypoints": [
-    "static/css/main.311e4ead.css",
-    "static/js/main.b4984b10.js"
+    "static/css/main.518ce8de.css",
+    "static/js/main.b5e95635.js"
   ]
 }
